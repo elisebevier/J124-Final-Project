@@ -72,9 +72,7 @@ foodinstitute@berkeley.edu
 (510) 529-1533
 
 ## Data Visualizations
-*The following [bar charts](https://datawrapper.dwcdn.net/NbEKo/1/) show the poverty rates in each State from Highest to Lowest*
-<img width="451" alt="poverty1" src="https://user-images.githubusercontent.com/109987594/183602011-2365d269-6cf1-4b70-b4b4-42d423334ee5.png"> <img width="518" alt="poverty2" src="https://user-images.githubusercontent.com/109987594/183601884-d848e9b4-b43d-4869-bd3f-c01099ff927f.png">
+*The following [bar charts](https://datawrapper.dwcdn.net/NbEKo/1/) show the poverty rates in each State from Highest to Lowest*<img width="451" alt="poverty1" src="https://user-images.githubusercontent.com/109987594/183602011-2365d269-6cf1-4b70-b4b4-42d423334ee5.png"><img width="518" alt="poverty2" src="https://user-images.githubusercontent.com/109987594/183601884-d848e9b4-b43d-4869-bd3f-c01099ff927f.png">
 
-*The Following [bar charts](https://datawrapper.dwcdn.net/R30vK/1/) show the percentage of impoverished children who participate in food assistance programs from highest to lowest*
-<img width="475" alt="participation1" src="https://user-images.githubusercontent.com/109987594/183602274-b5c1e9bb-29c5-4a2f-a35e-e55c92e78060.png"> <img width="480" alt="participation2" src="https://user-images.githubusercontent.com/109987594/183602349-eb3c4362-e5d3-4ee9-92e2-d9f535265907.png">
+*The Following [bar charts](https://datawrapper.dwcdn.net/R30vK/1/) show the percentage of impoverished children who participate in food assistance programs from highest to lowest*<img width="475" alt="participation1" src="https://user-images.githubusercontent.com/109987594/183602274-b5c1e9bb-29c5-4a2f-a35e-e55c92e78060.png"><img width="480" alt="participation2" src="https://user-images.githubusercontent.com/109987594/183602349-eb3c4362-e5d3-4ee9-92e2-d9f535265907.png">
 
