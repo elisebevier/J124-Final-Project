@@ -1,7 +1,8 @@
 # J124-Final-Project: Childhood Poverty and Food Assistance in U.S. States
 ## By Elise Bevier 
 ### Data Analysis Process
-* Down Load datasets from [Kaggle](https://www.kaggle.com/datasets/jpmiller/publicassistance)  
+* Down Load datasets from [Kaggle](https://www.kaggle.com/datasets/jpmiller/publicassistance) 
+[This Goodle Sheets documeant contains all the data I used in my analysis.](https://docs.google.com/spreadsheets/d/1k9xeUhVzsvPueqQPleHt_CVkyoN71sL4cSVX3zBFE50/edit#gid=1886654680) 
 *The following are questions answered though my data analysis process.*
 **Question 1:** Which state has the highest percentage of Children living below the poverty line?
 
@@ -52,3 +53,26 @@ Which is 46.7%<img width="122" alt="Screen Shot 2022-08-08 at 11 10 36 PM" src="
 3. Create a pivot table and arrange the values in decsending order 
 <img width="450" alt="Screen Shot 2022-08-09 at 12 13 37 AM" src="https://user-images.githubusercontent.com/109987594/183587978-1fd5599f-7318-4ff5-adc8-cbd137fbad28.png">
 See that Vermont has the highest percentage. 
+
+## Story Summary and Sourcing
+
+After performing my analysis, I noticed that some of the states with the highest levels of children living below the poverty line have the lowest rates of participation in food assistance programs. Mississippi and New Mexico which have the first and third highest poverty level, respectively, and have the lowest rates of participation in food assistance programs. An article in the [Washington post](https://www.washingtonpost.com/business/economy/13-million-people-in-poverty-are-disconnected-from-the-social-safety-net-most-of-them-are-white/2019/02/04/807516a0-2598-11e9-81fd-b7b05d5bed90_story.html ) titled, "13 million people in poverty are disconnected from the social safety net. Most of them are white", suggests that there are a variety of reasons people in the most impoverished states do not receive assistance. For one, some very republican states have enacted policies that make it more difficult to get food stamps, cash welfare benefits and child-care assistance, so it makes sense that people in Mississippi and New Mexico would have difficulty receiving assistance. The article also provides that most white families living in poverty in these states have other assets to fall back on when cash flow is tight. Also undocumented imigrants, a fifth of whom live in poverty are not eligable for benefits from the U.S. government. People may also feel reluctant to apply for food assistance because of the sheer stigma, fearing judgment. 
+
+I also noticed a correlation between food costs and poverty rates. I saw that some states like Wyoming, New Hampshire, and North Dakota which have lower poverty rates also had some of the lowest food costs. An article in [USA News and World Report](https://www.usnews.com/news/healthiest-communities/articles/2019-05-01/food-insecurity-in-america-tied-to-food-prices-poverty) titled, "Food Insecurity in America Tied to Prices, Poverty" explores this issue. They say that also the U.S. has had a pretty steady poverty rate since the ending of the Great Recession, there are counties that are more at risk for increase due to cost of living. In states where the cost of living is high, people face a higher risk for food insecurity. Wyoming, New Hampshire, and North Dakota also have smaller populations relative to the rest of the country and can benefit from a more targeted focus on reducing hunger. 
+
+For People to contact, I thought I could most easily get in contact with local food assistance experts. I would hope to ask if they have any insights as to why some states receive less assistance despite their high poverty levels. I would also like to ask how food assistance programs adjust to states with higher costs of living.
+
+Arjun Meht is a Food Pantry lead at the UC Berkeley Basic Needs center. Email: amehtacousd@berkeley.edu
+I would hope to gain insights into how funding for local food assistance programs works.
+
+Nathalie Munoz is the contact for media inquiries at the Berkeley Food Institute. The Berkeley Food institute seeks to transform food systems to expand access to health affordable food.
+foodinstitute@berkeley.edu
+(510) 529-1533
+
+## Data Visualizations
+*The following [bar charts](https://datawrapper.dwcdn.net/NbEKo/1/) show the poverty rates in east State from Highest to Lowest*
+<img width="451" alt="poverty1" src="https://user-images.githubusercontent.com/109987594/183602011-2365d269-6cf1-4b70-b4b4-42d423334ee5.png"> <img width="518" alt="poverty2" src="https://user-images.githubusercontent.com/109987594/183601884-d848e9b4-b43d-4869-bd3f-c01099ff927f.png">
+
+*The Following [bar charts](https://datawrapper.dwcdn.net/R30vK/1/) show the percentage of impoverished children who participate in food assistance programs from highest to lowest*
+<img width="475" alt="participation1" src="https://user-images.githubusercontent.com/109987594/183602274-b5c1e9bb-29c5-4a2f-a35e-e55c92e78060.png"> <img width="480" alt="participation2" src="https://user-images.githubusercontent.com/109987594/183602349-eb3c4362-e5d3-4ee9-92e2-d9f535265907.png">
+
